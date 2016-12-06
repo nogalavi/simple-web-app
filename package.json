@@ -1,0 +1,25 @@
+{
+  "name": "rollout1",
+  "version": "1.0.0",
+  "description": "Simple web application that presents a list of users",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogalavi/simple-web-app.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "BackboneJS",
+    "Node.js"
+  ],
+  "author": "Noga LAvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nogalavi/simple-web-app/issues"
+  },
+  "homepage": "https://github.com/nogalavi/simple-web-app#readme"
+}
